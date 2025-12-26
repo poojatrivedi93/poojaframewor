@@ -1,6 +1,10 @@
 package org;
 
 public class CreateOrg {
-sysout("helloo")
+public static void main(String[] args) {
+	System.out.println("hello org updated");
 }
+
+}
+
 
