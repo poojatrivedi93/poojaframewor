@@ -6,6 +6,8 @@ public class ArvindClass
 	{
 		System.out.println("Arvind class");
 		System.out.println("Arvind  purchase");
+		System.out.println("Arvind  sells");
+
 		
 	}
 
